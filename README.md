@@ -17,8 +17,8 @@ and parsed all of its integer variables.
 
 We spent time thinking about and discussing it, but we never got 
 around to generating any constraints. It is a difficult task, and,
-although we did not complete it, we learned while just grappling
-with the problem.
+although we did not complete it, we learned while grappling with
+the problem.
 
 It was very interesting to learn how simple programs can be reduced
 to satisfiability problems, which can then be efficiently solved.
